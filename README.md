@@ -1,2 +1,3 @@
-# registration_bot
-Telegram bot for registration(useless)
+# A Simple Registration Bot
+Telegram bot for registration(useless) </br>
+Mainly to refresh my knowledge in Python...
